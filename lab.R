@@ -82,7 +82,7 @@
 
 
 ## Create a random vector of 2022 salaries that are typically
-## higher than the 2014 salaires (use runif again).
+## higher than the 2014 salaries (use runif again).
 ## For instance, if you create random numbers between 65 and 130, then 2022
 ## salaries tend to be larger than 2021 salaries.
 
